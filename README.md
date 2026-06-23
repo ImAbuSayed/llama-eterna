@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bésame lento hasta el amanecer
+> Tu piel en llamas que no puedo perder
+> La noche es nuestra, no lo puedes negar
+> Llama eterna que me hace vibrar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
