@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/llama-eterna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Llama eterna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/llama-eterna/) |
+| **Get License** | [Commercial Licensing for Llama eterna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/llama-eterna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b4069326057cee1f4018e90c2e0da5c4b904fcdedf0e18756f64cf465073bb57` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
